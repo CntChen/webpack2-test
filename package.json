@@ -1,0 +1,13 @@
+{
+  "name": "webpack2-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "CntChen",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "webpack": "2.2.0-rc.7"
+  }
+}
